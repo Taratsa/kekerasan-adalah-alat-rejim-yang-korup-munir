@@ -1,0 +1,10 @@
+# source scan (regenerable input; the OCR baseline is tracked as book.ocr-original.md)
+*.pdf
+# raw OCR intermediates (regenerable from the PDF)
+ocr/
+# Standard Ebooks source tree and build output: regenerated on every `pipeline.py --steps se`
+se-src/
+se-out/
+# superseded backup; every change from the OCR baseline is in corrections.json
+book.before-se.md
+.DS_Store

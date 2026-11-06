@@ -1,0 +1,191 @@
+{
+  "source_pdf": "1.-TRANSKRIP-PERCAKAPAN-DGN-MUNIR-OLEH-PERSPEKTIF-BARU-KEKERASAN-ADL-ALAT-REJIM-YG-KORUP - Unknown.pdf",
+  "ocr": {
+    "server": "http://HOST:8020",
+    "mode": "auto_verified",
+    "dpi": 200,
+    "timeout_s": 170,
+    "retries": 3
+  },
+  "title": "Kekerasan adalah Alat Rejim yang Korup: Transkrip Percakapan dengan Munir",
+  "author": "Munir",
+  "lang": "id",
+  "epub_name": "Kekerasan adalah Alat Rejim yang Korup - Munir.epub",
+  "cover_page": 0,
+  "skip_pages": [
+    0
+  ],
+  "front_matter": {
+    "heading": "Halaman Judul",
+    "lines": [],
+    "pages": [
+      1
+    ]
+  },
+  "chapters": [
+    [
+      2,
+      "Kekerasan adalah Alat Rejim yang Korup",
+      "Perspektif Baru, Edisi 126"
+    ]
+  ],
+  "footer_patterns": [],
+  "typo_fixes": [],
+  "keep_joins": [],
+  "verify": {
+    "must_contain": [
+      "Perspektif Wimar",
+      "politik populis",
+      "melemahnya kekuatan",
+      "legitimasi",
+      "hak azasi",
+      "sekitar jatuhnya Soeharto"
+    ],
+    "must_not_contain": [
+      "Perspekrif",
+      "politikpopulis",
+      "televisidalam",
+      "majalahmulai",
+      "orangmelihat",
+      "legitiminasi",
+      "pencilikan",
+      "sekitarjatuhnya",
+      "politiknyalebih",
+      "azazsi",
+      "tekananinternasional",
+      "temukannegara",
+      "olek LB",
+      "dai upaya",
+      "sebagain besar",
+      "yangakan",
+      "sama.Saya",
+      "dari semua media 4 dari",
+      "4 dari 8 halaman",
+      "7 dari 8 halaman"
+    ]
+  },
+  "source": "book.md",
+  "image_format": "webp",
+  "finish": {
+    "publisher": "PT InterMatrix",
+    "subjects": [
+      "Hak Asasi Manusia",
+      "Wawancara"
+    ],
+    "toc_title": "Daftar Isi",
+    "source_label": "Perspektif Baru, Edisi 126 (PT InterMatrix), dari pindaian PDF",
+    "rights_lines": [
+      "Hak cipta atas teks wawancara berada pada InterMatrix dan/atau pemegang hak masing-masing.",
+      "Edisi digital ini tidak mengklaim hak atas isi tersebut."
+    ],
+    "credits": [],
+    "contributors": [],
+    "attribution_html": "Tata letak, gaya, dan kolofon mengikuti edisi <a href=\"https://masasilam.com\"><em>MasasilaM</em></a> (<em>Menyambut Kongres Kebudayaan</em>).",
+    "license": {
+      "name": "CC0 1.0",
+      "full_name": "CC0 1.0 Universal (Pernyataan Pelepasan ke Domain Publik)",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.id"
+    }
+  },
+  "se": {
+    "work": "kekerasan-adalah-alat-rejim-yang-korup",
+    "author": "Munir",
+    "author_file_as": "Munir",
+    "author_full_name": "Munir Said Thalib",
+    "author_wikipedia": "https://en.wikipedia.org/wiki/Munir_Said_Thalib",
+    "author_loc": "https://id.loc.gov/authorities/names/no2005002809.html",
+    "subtitle": "Transkrip Percakapan dengan Munir",
+    "cover_title": "Kekerasan adalah Alat Rejim yang Korup",
+    "publisher": "Kolektif Taratsa",
+    "producer": {
+      "name": "Kolektif Taratsa"
+    },
+    "source_label": "pindaian PDF transkrip wawancara Perspektif Baru, Edisi 126 (PT InterMatrix)",
+    "rights": "Hak cipta atas teks wawancara berada pada InterMatrix dan/atau pemegang hak masing-masing. Kontribusi penyuntingan edisi digital ini dilepaskan ke domain publik di bawah CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).",
+    "subjects": [
+      [
+        "Human rights--Indonesia",
+        "sh2008105905"
+      ],
+      [
+        "Political violence--Indonesia",
+        "sh2010107340"
+      ],
+      [
+        "Indonesia--Politics and government--1998-",
+        "sh99003241"
+      ]
+    ],
+    "abstract": "Seorang aktivis hak asasi manusia menjelaskan bahwa kekerasan dan penculikan politik adalah alat rezim yang korup, serta apa yang diperlukan agar kekerasan itu berhenti.",
+    "description_html": "<p>Transkrip wawancara <i>Perspektif Baru</i>, Edisi 126, tempat Wimar Witoelar berbicara dengan Munir tentang penculikan aktivis menjelang jatuhnya rezim lama, kerja KONTRAS, peristiwa Mei, tekanan internasional, dan sistem politik yang diperlukan agar kekerasan berhenti.</p>",
+    "contributors": [
+      {
+        "id": "interviewer",
+        "name": "Wimar Witoelar",
+        "file_as": "Witoelar, Wimar",
+        "role": "ivr",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wimar_Witoelar"
+      }
+    ],
+    "qa": true,
+    "epigraph": {
+      "heading": "Highlight",
+      "cite": "Munir"
+    },
+    "acronyms": [
+      "KONTRAS",
+      "ABRI",
+      "LSM",
+      "MPR",
+      "LBH",
+      "ICJ",
+      "CSIS"
+    ],
+    "name_titles": [
+      "SH"
+    ],
+    "foreign": {
+      "en": [
+        "public figure",
+        "volunteer",
+        "double standart",
+        "security approach",
+        "testimony",
+        "concern",
+        "reason",
+        "human right"
+      ]
+    },
+    "italic_names": [
+      {
+        "text": "Perspektif Baru",
+        "type": "se:name.publication.magazine"
+      }
+    ],
+    "lint_ignore": [
+      {
+        "file": "kekerasan-adalah-alat-rejim-yang-korup.xhtml",
+        "code": "y-003",
+        "reason": "Paragraf pengantar berakhir tanpa tanda baca di naskah sumber; dibiarkan apa adanya."
+      }
+    ],
+    "production_notes": [
+      "Pembatas halaman pindaian (\"4 dari 8 halaman\", \"7 dari 8 halaman\") dibuang dan paragraf yang terpotong disambung.",
+      "Sampul adalah sampul tipografi polos karena pindaian tidak memuat gambar sampul."
+    ],
+    "released": "2026-11-06T16:30:56Z",
+    "masthead": {
+      "sections": [
+        "Highlight",
+        "BOX KETERANGAN RUTIN"
+      ]
+    },
+    "image_alt": {
+      "p01_0.webp": "Logo majalah Perspektif Baru."
+    }
+  },
+  "corrections": {
+    "baseline": "book.ocr-original.md",
+    "enforce": true
+  }
+}
