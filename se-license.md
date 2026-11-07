@@ -6,6 +6,6 @@ A line ending in two spaces or a backslash is a line break. Raw inline HTML is p
 for Standard Ebooks semantics). Optional placeholders, filled from book.json at build time if you type them:
 {title} {author} {producer} {source_label} {date} {iso} {license} -->
 
-Kontribusi penyuntingan edisi digital ini, termasuk hasil OCR, pemeriksaan dan koreksi naskah, penataan huruf, perbaikan tata letak/struktur, dan navigasi, dilepaskan ke domain publik di bawah [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.id).
+Kontribusi penyuntingan edisi digital ini, termasuk hasil pengenalan teks (OCR), pemeriksaan dan koreksi naskah, penataan huruf, perbaikan tata letak/struktur, dan navigasi, dilepaskan ke domain publik di bawah [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.id).
 
 Pelepasan ini tidak mencakup teks, foto, maupun isi lain yang menjadi dasar edisi ini, yang tetap menjadi milik para pemegang haknya masing-masing. Edisi ini tidak mengklaim hak atas isi tersebut.

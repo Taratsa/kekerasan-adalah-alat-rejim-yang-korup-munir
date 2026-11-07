@@ -12,7 +12,7 @@ oleh
 
 Edisi digital ini disusun oleh  
 **Kolektif Taratsa**  
-dari pindaian PDF transkrip wawancara Perspektif Baru, Edisi 126 (PT InterMatrix).
+dari digitalisasi arsip transkrip wawancara Perspektif Baru, Edisi 126 (PT InterMatrix) oleh Komisi untuk Orang Hilang dan Korban Tindak Kekerasan (KontraS).
 
 Sampul menggunakan huruf  
 <b epub:type="se:name.visual-art.typeface">League Spartan</b>,  

@@ -171,7 +171,7 @@
     ],
     "production_notes": [
       "Pembatas halaman pindaian (\"4 dari 8 halaman\", \"7 dari 8 halaman\") dibuang dan paragraf yang terpotong disambung.",
-      "Sampul adalah sampul tipografi polos karena pindaian tidak memuat gambar sampul."
+      "Sampul sengaja dibuat sampul tipografi polos 1400 x 2100 (judul dan nama penulis dengan huruf League Spartan bawaan alat SE), bukan lukisan. Panduan sampul Standard Ebooks mensyaratkan lukisan cat minyak berwarna yang terbukti domain publik AS dan disetujui editor SE; edisi ini tidak memiliki karya seperti itu dan bukan rilis Standard Ebooks. Gambar sampul dapat dipasang lewat se.cover_image."
     ],
     "released": "2026-11-06T16:30:56Z",
     "masthead": {
